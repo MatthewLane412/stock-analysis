@@ -18,6 +18,12 @@ Some of the techniques used were:
 ## Results
 
 
+
+Before Refactored code
+
+![2017 Before Refactored Run Time](/Resources/VBA_Challenge_2017_Before_Refactoring.PNG)
+![2018 Before Refactored Run Time](/Resources/VBA_Challenge_2018_Before_Refactoring.PNG)
+
 Refactored Run Times
 
 ![2017 Refactored Run Time](/Resources/VBA_Challenge_2017.PNG)
