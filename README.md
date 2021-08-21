@@ -13,6 +13,8 @@ Some of the techniques used were:
 
 ## Results
 
+
+Refactored Run Times
 ![2017 Refactored Run Time](/Resources/VBA_Challenge_2017.PNG)
 ![2018 Refactored Run Time](/Resources/VBA_Challenge_2018.PNG)
 
