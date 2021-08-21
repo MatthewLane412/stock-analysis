@@ -7,6 +7,9 @@ Key metrics Steve is looking for inclucde:
 - Total Daily Volumne
 - Return
 
+
+## Results
+
 I have used VBA within Excel to complete this project. With VBA, we have created an easily repeatable deliverable. 
 
 Some of the techniques used were:
@@ -15,7 +18,7 @@ Some of the techniques used were:
 - Loading Arrays (e.g. ```tickers(0) = "AY"```)
 - Looping through repetitive task with For Loops (e.g. ``` For tickerIndex = 0 To 11 ... Next tickerIndex```)
 
-## Results
+
 
 ### 2017 Stock Analysis
 
