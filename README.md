@@ -13,7 +13,8 @@ Some of the techniques used were:
 
 ## Results
 
-
+![2017 VBA Run Time](/Resources/VBA_Challenge_2017.PNG)
+![2018 VBA Run Time](/Resources/VBA_Challenge_2018.PNG)
 
 
 ## Summary
