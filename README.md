@@ -22,7 +22,7 @@ Some of the techniques used were:
 
 ### Stock Analysis
 
-![2017 Stock Analysis](/Resources/All_Stocks_(2017).png)    
+![2017 Stock Analysis](/Resources/All_Stocks_(2017).png)  
 ![2018 Stock Analysis](/Resources/All_Stocks_(2018).png)
 
 ### Before Refactored code
