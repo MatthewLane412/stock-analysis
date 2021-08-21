@@ -17,7 +17,13 @@ Some of the techniques used were:
 
 ## Results
 
+### 2017 Stock Analysis
 
+![2017 Stock Analysis](/Resources/All_Stocks_(2017).PNG)
+
+### 2018 Stock Analysis
+
+![2018 Stock Analysis](/Resources/All_Stocks_(2018).PNG)
 
 ### Before Refactored code
 
