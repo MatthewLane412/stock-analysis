@@ -1,2 +1,7 @@
-# stock-analysis
-Module 2 WashU bootcamp
+#Beating the Stock Market
+
+## Overview of Project
+
+## Results
+
+## Summary
