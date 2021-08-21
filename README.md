@@ -1,4 +1,4 @@
-#Beating the Stock Market
+# Beating the Stock Market
 
 ## Overview of Project
 
