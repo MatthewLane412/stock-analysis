@@ -10,7 +10,7 @@ Key metrics Steve is looking for include:
 
 ## Results
 
-Utilizing VBA within Excel to complete this project, I have created an easily and automated way to repeat this deliverable. 
+Utilizing VBA within Excel to complete this project, I have created an easy and automated way to repeat this deliverable. 
 
 Some of the techniques used were:
 - Setting variables (e.g. ```Dim startTime As Single```)
