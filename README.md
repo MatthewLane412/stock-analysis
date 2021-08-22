@@ -40,10 +40,10 @@ Looking at the performance of energy stocks between 2017 and 2018, we can tell 2
 
 ## Summary
 
-## What are the advantages or disadvantages of refactoring code?
-Advantages of refactoring code could include Enhancement of code, bug fixing, 
+### What are the advantages or disadvantages of refactoring code?
+Advantages of refactoring code include enhancement of code (shotrer and quicker run times), bug fixing and maintainability. Some disadvantages of refactoring code include cost/time, introduction of bugs and close deadlines. 
 
 
-## How do these pros and cons apply to refactoring the original VBA script?
-
+### How do these pros and cons apply to refactoring the original VBA script?
+These pros and conts apply to refactoring of the original VBA script in a couple of ways. The code was enhanced for shorter and quicker run time. It also introduced easier maintainability of the code as it is more intuitive when reading. The cons introduced include timeliness of refactoring the code. In this case it only took ~2 hours to refactor the code. 
 
