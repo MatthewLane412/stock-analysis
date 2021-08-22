@@ -1,7 +1,7 @@
 # Beating the Stock Market
 
 ## Overview of Project
-The purpose of this analysis is to help Steve with an analysis of energy stocks, specifically "DAQO New Energy Corp (DQ). Steve's parent invested all their money into DQ. Steve is worried about his parents not diversifying, and how the stock has performed historically. To start this project Steve provided a spreadsheet of clean energy stocks to dig into. 
+The purpose of this analysis is to help Steve with an analysis of energy stocks, specifically "DAQO New Energy Corp (DQ). Steve's parents invested all their money into DQ. Steve is worried about his parents not diversifying, and how the stock has performed historically. To start this project Steve provided a spreadsheet of clean energy stocks to dig into. 
 
 Key metrics Steve is looking for include:  
 - Total Daily Volumne
