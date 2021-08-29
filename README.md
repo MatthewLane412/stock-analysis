@@ -16,7 +16,10 @@ Some of the techniques used were:
 - Setting variables (e.g. ```Dim startTime As Single```)
 - Adding values to cells (e.g. ```Cells(3, 1).Value = "Ticker"```)
 - Loading Arrays (e.g. ```tickers(0) = "AY"```)
-- Looping through repetitive task with For Loops (e.g. ``` For tickerIndex = 0 To 11 ... Next tickerIndex```)
+- Looping through repetitive task with For Loops e.g.
+- ``` For tickerIndex = 0 To 11
+-     ' Action
+-     Next tickerIndex```)
 
 
 
